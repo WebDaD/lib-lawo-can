@@ -36,3 +36,6 @@ myCan.destroy(function () { // destroys this object and closes the candump
 For Testing purposes, the lib sends itself a message and creates a temporary CAN-Interface vcan99
 
 The do `npm run test`
+
+# Acknowledgements
+The patched canutils are made by Helmut Scholz, BR
