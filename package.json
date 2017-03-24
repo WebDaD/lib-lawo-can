@@ -1,0 +1,20 @@
+{
+  "name": "lib-lawo-can",
+  "version": "0.0.1",
+  "description": "A small library to use the lawo-canbus.",
+  "license": "The Unlicense",
+  "author": {
+    "name": "Dominik Sigmund",
+    "email": "dominik.sigmund@webdad.eu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WebDaD/lib-lawo-can.git"
+  },
+  "scripts": {
+    "postinstall":"",
+    "test":""
+  },
+  "dependencies": {
+  }
+}
